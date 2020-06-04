@@ -4,7 +4,7 @@ Architecture: iphoneos-arm
 Maintainer: Alban Diquet <nabla.c0d3@gmail.com>
 Installed-Size: 84
 Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/com.nablac0d3.sslkillswitch2_0.14.deb
+Filename: debs/com.nablac0d3.sslkillswitch2_0.14.deb
 Size: 7392
 MD5sum: 41ebada26cdb598d0072594208d14921
 SHA1: 2da0a7d75aef0444aabb0c5f5e9a30610edcc1bc
@@ -18,7 +18,7 @@ Package: com.nitin.keychaineditor
 Version: 2.1
 Architecture: iphoneos-arm
 Maintainer: Nitin Jami <nitin.jami@gmail.com>
-Filename: ./debs/keychaineditor.deb
+Filename: debs/keychaineditor.deb
 Size: 44302954
 MD5sum: 6144c7d37bec0516168a2897ea1d433e
 SHA1: 408f4204ed323c0673dc2b8a0a279c1667667205
@@ -30,16 +30,16 @@ Author: Nitin Jami <nitin.jami@gmail.com>
 Name: Keychain Editor
 
 Package: com.taonoi.tweaks.hookdeviceid
-Version: 0.0.1-18+debug
+Version: 0.0.1-19+debug
 Architecture: iphoneos-arm
 Maintainer: msimn
-Installed-Size: 384
+Installed-Size: 368
 Depends: mobilesubstrate
-Filename: ./debs/com.taonoi.tweaks.hookdeviceid_0.0.1-18+debug_iphoneos-arm.deb
-Size: 11730
-MD5sum: 022ae7f16a82879f36a6259d61ba6b2e
-SHA1: 260530c6fc560430c50f107d9530b4ae6890c410
-SHA256: 250ec1d6f3428109cdd7c43af998cde352114620cbdf2e7eba137c4c19b2dcf9
+Filename: debs/com.taonoi.tweaks.hookdeviceid_0.0.1-19+debug_iphoneos-arm.deb
+Size: 12588
+MD5sum: 46cef2d83c7c0ed26d580eedcad964c4
+SHA1: b9f447a586ab02a998a946e787d18205001e4efb
+SHA256: d8314607ee16d927d2cef3c04ba9d5e5761b4dbf03a9ba49839f5bd595c754df
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: msimn
@@ -51,7 +51,7 @@ Architecture: iphoneos-arm
 Maintainer: Mick
 Installed-Size: 200
 Depends: mobilesubstrate
-Filename: ./debs/com.taonoi.tweaks.torebaid_0.1.0-8+debug_iphoneos-arm.deb
+Filename: debs/com.taonoi.tweaks.torebaid_0.1.0-8+debug_iphoneos-arm.deb
 Size: 6662
 MD5sum: bc303de7861cb4232b601cad0fc89cd7
 SHA1: 9680a3dbee0b872f016977a9b42d801a9cfdb752
