@@ -11,7 +11,9 @@
 			-->
 		</firmware>
 	</compatibility>
-	<dependencies></dependencies>
+	<dependencies>
+		<package>org.swift.libswift</package>
+	</dependencies>
 	<descriptionlist>
 		<description>Keychaineditor</description>
 	</descriptionlist>
