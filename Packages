@@ -1,28 +1,63 @@
-Package: com.supermamon.newpackage
-Version: 2.0.0-1
-Section: Tweaks
-Maintainer: Reposi3 <reposithree@gmail.com>
-Depends: firmware (>7.0), mobilesubstrate
+Package: com.nablac0d3.sslkillswitch2
+Version: 0.14-3+debug
 Architecture: iphoneos-arm
-Filename: ./debs/com.supermamon.newpackage_2.0.0-1_iphoneos-arm.deb
-Size: 854
-MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
-Description: This is a sample new package. Firmware should be greater than 7.0
-Name: New Package
-Author: Reposi3 <reposithree@gmail.com>
-Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.newpackage
+Maintainer: Alban Diquet <nabla.c0d3@gmail.com>
+Installed-Size: 84
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.nablac0d3.sslkillswitch2_0.14.deb
+Size: 7392
+MD5sum: 41ebada26cdb598d0072594208d14921
+SHA1: 2da0a7d75aef0444aabb0c5f5e9a30610edcc1bc
+SHA256: 4cfc2e49e7cda20365ce7d222eacc43202bcd3dcd9107f45869c1b589f7237f8
+Section: Tweaks
+Description: Blackbox tool to disable SSL certificate validation - including certificate pinning - within iOS and OS X Apps.
+Author: Alban Diquet <nabla.c0d3@gmail.com>
+Name: SSL Kill Switch 2
 
-Package: com.supermamon.oldpackage
-Version: 1.0.0-1
-Section: Tweaks
-Maintainer: Reposi3 <reposithree@gmail.com>
-Depends: firmware (<7.0)
+Package: com.nitin.keychaineditor
+Version: 2.1
 Architecture: iphoneos-arm
-Filename: ./debs/com.supermamon.oldpackage_1.0.0-1_iphoneos-arm.deb
-Size: 860
-MD5sum: 8c606f0c05217aa2a20949091fe516f0
-Description: This is a sample old package. Firmware should be lower than 7.0
-Name: Old Package
-Author: Reposi3 <reposithree@gmail.com>
-Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
+Maintainer: Nitin Jami <nitin.jami@gmail.com>
+Filename: ./debs/keychaineditor.deb
+Size: 44302954
+MD5sum: 6144c7d37bec0516168a2897ea1d433e
+SHA1: 408f4204ed323c0673dc2b8a0a279c1667667205
+SHA256: 6880d495c76195b2182cf02d3573dc71023422759230fa0159cad28f4af69b84
+Section: Tools
+Homepage: https://github.com/NitinJami/keychaineditor
+Description: CLI to dump keychain items including the new access controls. Supports only 64-bit arch.
+Author: Nitin Jami <nitin.jami@gmail.com>
+Name: Keychain Editor
+
+Package: com.taonoi.tweaks.hookdeviceid
+Version: 0.0.1-18+debug
+Architecture: iphoneos-arm
+Maintainer: msimn
+Installed-Size: 384
+Depends: mobilesubstrate
+Filename: ./debs/com.taonoi.tweaks.hookdeviceid_0.0.1-18+debug_iphoneos-arm.deb
+Size: 11730
+MD5sum: 022ae7f16a82879f36a6259d61ba6b2e
+SHA1: 260530c6fc560430c50f107d9530b4ae6890c410
+SHA256: 250ec1d6f3428109cdd7c43af998cde352114620cbdf2e7eba137c4c19b2dcf9
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: msimn
+Name: HookDeviceId
+
+Package: com.taonoi.tweaks.torebaid
+Version: 0.1.0-8+debug
+Architecture: iphoneos-arm
+Maintainer: Mick
+Installed-Size: 200
+Depends: mobilesubstrate
+Filename: ./debs/com.taonoi.tweaks.torebaid_0.1.0-8+debug_iphoneos-arm.deb
+Size: 6662
+MD5sum: bc303de7861cb4232b601cad0fc89cd7
+SHA1: 9680a3dbee0b872f016977a9b42d801a9cfdb752
+SHA256: 639da4af54a9145756b1800479b69bffcc878984205d794f4a94d06d7e7a49e1
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Mick
+Name: TorebaID
 
