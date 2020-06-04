@@ -13,6 +13,7 @@
 	</compatibility>
 	<dependencies>
 		<package>org.swift.libswift</package>
+		<package>com.bingner.plutil</package>
 	</dependencies>
 	<descriptionlist>
 		<description>Keychaineditor</description>
