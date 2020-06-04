@@ -15,14 +15,14 @@ Author: Alban Diquet <nabla.c0d3@gmail.com>
 Name: SSL Kill Switch 2
 
 Package: com.nitin.keychaineditor
-Version: 2.1
+Version: 2.3
 Architecture: iphoneos-arm
 Maintainer: Nitin Jami <nitin.jami@gmail.com>
 Filename: debs/keychaineditor.deb
-Size: 44302954
-MD5sum: 6144c7d37bec0516168a2897ea1d433e
-SHA1: 408f4204ed323c0673dc2b8a0a279c1667667205
-SHA256: 6880d495c76195b2182cf02d3573dc71023422759230fa0159cad28f4af69b84
+Size: 276250
+MD5sum: e04d500bebcc1e91b67cc26ea4484eaf
+SHA1: 2db563540feec9ec3418539cd365a358597f1b17
+SHA256: 8e484b90a84e54461c2856ea41466ec0bc73a7960ccfcad4e126afb78addd0b4
 Section: Tools
 Homepage: https://github.com/NitinJami/keychaineditor
 Description: CLI to dump keychain items including the new access controls. Supports only 64-bit arch.
