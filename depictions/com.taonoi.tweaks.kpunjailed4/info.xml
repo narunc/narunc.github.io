@@ -1,7 +1,7 @@
 <package>
 	<id>com.taonoi.tweaks.kpunjailed4</id>
 	<name>KPUnjailed 4</name>
-	<version>0.0.1+4</version>
+	<version>0.0.1-6</version>
 	<compatibility>
 		<firmware>
 			<maxiOS>14.2</maxiOS>

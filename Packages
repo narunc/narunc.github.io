@@ -4,7 +4,7 @@ Architecture: iphoneos-arm
 Maintainer: Alban Diquet <nabla.c0d3@gmail.com>
 Installed-Size: 84
 Depends: mobilesubstrate, preferenceloader
-Filename: debs/com.nablac0d3.sslkillswitch2_0.14.deb
+Filename: ./debs/com.nablac0d3.sslkillswitch2_0.14.deb
 Size: 7392
 MD5sum: 41ebada26cdb598d0072594208d14921
 SHA1: 2da0a7d75aef0444aabb0c5f5e9a30610edcc1bc
@@ -18,7 +18,7 @@ Package: com.nitin.keychaineditor
 Version: 2.32
 Architecture: iphoneos-arm
 Maintainer: Nitin Jami <nitin.jami@gmail.com>
-Filename: debs/keychaineditor.deb
+Filename: ./debs/keychaineditor.deb
 Size: 218296
 MD5sum: 18929172ce3515d52bcbe5af772f4ae8
 SHA1: fae0c3b60883623bcba210c8ebf9ae8b812f0bea
@@ -35,7 +35,7 @@ Architecture: iphoneos-arm
 Maintainer: msimn
 Installed-Size: 368
 Depends: mobilesubstrate
-Filename: debs/com.taonoi.tweaks.hookdeviceid_0.0.1-19+debug_iphoneos-arm.deb
+Filename: ./debs/com.taonoi.tweaks.hookdeviceid_0.0.1-19+debug_iphoneos-arm.deb
 Size: 12588
 MD5sum: 46cef2d83c7c0ed26d580eedcad964c4
 SHA1: b9f447a586ab02a998a946e787d18205001e4efb
@@ -45,13 +45,29 @@ Description: An awesome MobileSubstrate tweak!
 Author: msimn
 Name: HookDeviceId
 
+Package: com.taonoi.tweaks.kpunjailed4
+Version: 0.0.1-6+debug
+Architecture: iphoneos-arm
+Maintainer: msimn
+Installed-Size: 200
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.taonoi.tweaks.kpunjailed4_0.0.1-6+debug_iphoneos-arm.deb
+Size: 4960
+MD5sum: 78193c0d59dd61e6d31c70fca772cf05
+SHA1: f824b66780fb12a902827e48611c30c59ee7cd13
+SHA256: 07b4f49c099d45ce2a66f509bc23ef3585c5880b3c789d95ef245e08eae51fff
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: msimn
+Name: kpunjailed4
+
 Package: com.taonoi.tweaks.torebaid
 Version: 0.1.0-8+debug
 Architecture: iphoneos-arm
 Maintainer: Mick
 Installed-Size: 200
 Depends: mobilesubstrate
-Filename: debs/com.taonoi.tweaks.torebaid_0.1.0-8+debug_iphoneos-arm.deb
+Filename: ./debs/com.taonoi.tweaks.torebaid_0.1.0-8+debug_iphoneos-arm.deb
 Size: 6662
 MD5sum: bc303de7861cb4232b601cad0fc89cd7
 SHA1: 9680a3dbee0b872f016977a9b42d801a9cfdb752
@@ -61,18 +77,3 @@ Description: An awesome MobileSubstrate tweak!
 Author: Mick
 Name: TorebaID
 
-Package: com.taonoi.tweaks.kpunjailed4
-Version: 0.0.1-4+debug
-Architecture: iphoneos-arm
-Maintainer: msimn
-Installed-Size: 200
-Depends: mobilesubstrate
-Filename: debs/com.taonoi.tweaks.kpunjailed4_0.0.1-4+debug_iphoneos-arm.deb
-Size: 4980
-MD5sum: 559f9c26926ed9df47d1316b15a4f791
-SHA1: 8e6c5345ade32771dffca6c9f72e3357f96c709e
-SHA256: bfe009ed20dfde1dc962c77931d819c752c631e25514f0b1690b8ef5de67a13f
-Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
-Author: msimn
-Name: KPUnjailed 4
