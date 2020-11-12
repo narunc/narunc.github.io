@@ -61,3 +61,18 @@ Description: An awesome MobileSubstrate tweak!
 Author: Mick
 Name: TorebaID
 
+Package: com.taonoi.tweaks.kpunjailed4
+Version: 0.0.1-4+debug
+Architecture: iphoneos-arm
+Maintainer: msimn
+Installed-Size: 200
+Depends: mobilesubstrate
+Filename: debs/com.taonoi.tweaks.kpunjailed4_0.0.1-4+debug_iphoneos-arm.deb
+Size: 4980
+MD5sum: 559f9c26926ed9df47d1316b15a4f791
+SHA1: 8e6c5345ade32771dffca6c9f72e3357f96c709e
+SHA256: bfe009ed20dfde1dc962c77931d819c752c631e25514f0b1690b8ef5de67a13f
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: msimn
+Name: KPUnjailed 4
