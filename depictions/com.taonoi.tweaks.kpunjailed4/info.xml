@@ -1,0 +1,24 @@
+<package>
+	<id>com.taonoi.tweaks.kpunjailed4</id>
+	<name>KPUnjailed 4</name>
+	<version>0.0.1+4</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>14.2</maxiOS>
+			<otherVersions>unconfirmed</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies>
+	</dependencies>
+	<descriptionlist>
+		<description>KPUnjailed 4</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
